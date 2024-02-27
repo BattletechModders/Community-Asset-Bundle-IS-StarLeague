@@ -1080,7 +1080,7 @@
 		
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/wasplegacy/chrprfweap_wasplegacy_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_wasplegacybase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/wasplegacy/chrprfweap_wasplegacy_leftarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_wasplegacybase-001" },
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/wasplegacy/chrprfweap_wasplegacy_leftarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_wasplegacybase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/wasplegacy/chrprfweap_wasplegacy_leftarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_wasplegacybase-001" }
 
 	
     ]
