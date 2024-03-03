@@ -754,7 +754,7 @@
 		
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/phawklammech/chrprfweap_phawklammech_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_phawklammechbase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/phawklammech/chrprfweap_phawklammech_leftarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_phawklammechbase-001" },
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/phawklammech/chrprfweap_phawklammech_leftarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_phawklammechbase-001" },	"AssetBundleName": "chrprfmech_phawklambase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/phawklammech/chrprfweap_phawklammech_leftarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_phawklammechbase-001" },
 		
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/phawklegacy/chrPrfComp_phawklegacy_simgame.prefab", "AssetBundleName": "chrprfmech_phawklegacybase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_phawklegacybase-001.prefab", "AssetBundleName": "chrprfmech_phawklegacybase-001" },	
