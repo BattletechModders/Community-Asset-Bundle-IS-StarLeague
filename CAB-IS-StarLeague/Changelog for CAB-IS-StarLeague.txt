@@ -2,6 +2,10 @@ Changelog for CAB-IS-StarLeague
 
 -----------------------------------------------------
 
+1.1
+
+Added Hammerhands
+
 1.0
 
 Initial Commit

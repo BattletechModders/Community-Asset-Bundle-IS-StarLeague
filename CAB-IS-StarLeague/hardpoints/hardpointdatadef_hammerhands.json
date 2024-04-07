@@ -1,0 +1,118 @@
+{
+	"ID": "hardpointdatadef_hammerhands",
+	"HardpointData": [
+		{
+			"location": "centertorso",
+			"weapons": [
+				[
+					"chrprfweap_hammerhands_centertorso_laser_eh1"
+				],
+				[
+					"chrprfweap_hammerhands_centertorso_laser_eh2"
+				]
+			],
+			"blanks": [],
+			"mountingPoints": []
+		},
+		{
+			"location": "leftarm",
+			"weapons": [
+				[
+					"chrprfweap_hammerhands_leftarm_ac20_bh1",
+					"chrprfweap_hammerhands_leftarm_ac10_bh1",
+					"chrprfweap_hammerhands_leftarm_artillery_bh1",
+					"chrprfweap_hammerhands_leftarm_shield_bh1",
+					"chrprfweap_hammerhands_leftarm_gauss_bh1",
+					"chrprfweap_hammerhands_leftarm_laser_eh1",
+					"chrprfweap_hammerhands_leftarm_lbx_bh1",
+					"chrprfweap_hammerhands_leftarm_mg_bh1",
+					"chrprfweap_hammerhands_leftarm_hammer_bh1",
+					"chrprfweap_hammerhands_leftarm_ppc_eh1",
+					"chrprfweap_hammerhands_leftarm_uac5_bh1"
+
+				],
+				[
+					"chrprfweap_hammerhands_leftarm_laser_eh2"
+				]
+			],
+			"blanks": [],
+			"mountingPoints": []
+		},
+		{
+			"location": "lefttorso",
+			"weapons": [
+				[
+					"chrprfweap_hammerhands_lefttorso_laser_eh1",
+					"chrprfweap_hammerhands_lefttorso_ac20_bh1",
+					"chrprfweap_hammerhands_lefttorso_lrm10_mh1",
+					"chrprfweap_hammerhands_lefttorso_gauss_bh1",
+					"chrprfweap_hammerhands_lefttorso_lrm5_mh1",
+					"chrprfweap_hammerhands_lefttorso_artillery_bh1",
+					"chrprfweap_hammerhands_lefttorso_arrow_mh1",
+					"chrprfweap_hammerhands_lefttorso_ac10_bh1",
+					"chrprfweap_hammerhands_lefttorso_ppc_eh1",
+					"chrprfweap_hammerhands_lefttorso_mg_bh1",
+					"chrprfweap_hammerhands_lefttorso_lrm20_mh1",
+					"chrprfweap_hammerhands_lefttorso_uac5_bh1",
+					"chrprfweap_hammerhands_lefttorso_lbx_bh1",
+					"chrprfweap_hammerhands_lefttorso_srm6_mh1"
+				],
+				[
+					"chrprfweap_hammerhands_lefttorso_laser_eh2",
+					"chrprfweap_hammerhands_lefttorso_ppc_eh2"
+				]
+			],
+			"blanks": [],
+			"mountingPoints": []
+		},
+		{
+			"location": "rightarm",
+			"weapons": [
+				[
+					"chrprfweap_hammerhands_rightarm_ac20_bh1",
+					"chrprfweap_hammerhands_rightarm_ac10_bh1",
+					"chrprfweap_hammerhands_rightarm_laser_eh1",
+					"chrprfweap_hammerhands_rightarm_gauss_bh1",
+					"chrprfweap_hammerhands_rightarm_lbx_bh1",
+					"chrprfweap_hammerhands_rightarm_ppc_eh1",
+					"chrprfweap_hammerhands_rightarm_hammer_bh1",
+					"chrprfweap_hammerhands_rightarm_mg_bh1",
+					"chrprfweap_hammerhands_rightarm_uac5_bh1",
+					"chrprfweap_hammerhands_rightarm_artillery_bh1"
+				],
+				[	
+					"chrprfweap_hammerhands_rightarm_laser_eh2"
+				]
+			],
+			"blanks": [],
+			"mountingPoints": []
+		},
+		{
+			"location": "righttorso",
+			"weapons": [
+				[
+					"chrprfweap_hammerhands_righttorso_lrm10_mh1",
+					"chrprfweap_hammerhands_righttorso_lrm5_mh1",
+					"chrprfweap_hammerhands_righttorso_arrow_mh1",
+					"chrprfweap_hammerhands_righttorso_lrm20_mh1",
+					"chrprfweap_hammerhands_righttorso_uac5_bh1",
+					"chrprfweap_hammerhands_righttorso_lbx_bh1",
+					"chrprfweap_hammerhands_righttorso_srm6_mh1",
+					"chrprfweap_hammerhands_righttorso_ac20_bh1",
+					"chrprfweap_hammerhands_righttorso_gauss_bh1",
+					"chrprfweap_hammerhands_righttorso_artillery_bh1",
+					"chrprfweap_hammerhands_righttorso_laser_eh1",
+					"chrprfweap_hammerhands_righttorso_ac10_bh1",
+					"chrprfweap_hammerhands_righttorso_ppc_eh1",
+					"chrprfweap_hammerhands_righttorso_mg_bh1"
+				],
+				[
+					"chrprfweap_hammerhands_righttorso_laser_eh2",
+					"chrprfweap_hammerhands_righttorso_ppc_eh2"
+				]
+			],
+			"blanks": [],
+			"mountingPoints": []
+		}
+	]
+}

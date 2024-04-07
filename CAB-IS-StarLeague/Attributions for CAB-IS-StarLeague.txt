@@ -13,6 +13,7 @@ Lt. Shade
 Models:
 Bellerophon
 Helepolis
+Hammerhands
 
 Ion Raptor
 Models:
