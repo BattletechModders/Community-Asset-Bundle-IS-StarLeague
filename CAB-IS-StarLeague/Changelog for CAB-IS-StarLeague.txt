@@ -2,6 +2,10 @@ Changelog for CAB-IS-StarLeague
 
 -----------------------------------------------------
 
+1.2
+
+Added Excalibur
+
 1.1
 
 Added Hammerhands
