@@ -2,6 +2,10 @@ Changelog for CAB-IS-StarLeague
 
 -----------------------------------------------------
 
+1.3
+
+Added Sling
+
 1.2
 
 Added Excalibur

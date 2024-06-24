@@ -25,6 +25,7 @@ Models:
 Champion LAM
 Jackrabbit
 Rampage
+Sling
 
 Piranha Games, Inc.
 Models:

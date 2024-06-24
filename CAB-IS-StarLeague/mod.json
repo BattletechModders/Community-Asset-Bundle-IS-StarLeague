@@ -1182,7 +1182,30 @@
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/excalibur/chrprfweap_excalibur_lefttorso_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_excaliburbase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/excalibur/chrprfweap_excalibur_lefttorso_lrm20_mh1.prefab", "AssetBundleName": "chrprfmech_excaliburbase-001" },
 		
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/excalibur/chrprfweap_excalibur_head_laser_eh1.prefab", "AssetBundleName": "chrprfmech_excaliburbase-001" }
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/excalibur/chrprfweap_excalibur_head_laser_eh1.prefab", "AssetBundleName": "chrprfmech_excaliburbase-001" },	
+	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/sling/chrPrfComp_sling_simgame.prefab", "AssetBundleName": "chrprfmech_slingbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_slingbase-001.prefab", "AssetBundleName": "chrprfmech_slingbase-001" },	
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/sling/chrPrfComp_sling_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_slingbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/sling/chrprfweap_sling_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_slingbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/sling/chrprfweap_sling_leftarm_srm2_mh1.prefab", "AssetBundleName": "chrprfmech_slingbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/sling/chrprfweap_sling_leftarm_srm4_mh1.prefab", "AssetBundleName": "chrprfmech_slingbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/sling/chrprfweap_sling_leftarm_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_slingbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/sling/chrprfweap_sling_leftarm_lrm5_mh1.prefab", "AssetBundleName": "chrprfmech_slingbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/sling/chrprfweap_sling_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_slingbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/sling/chrprfweap_sling_rightarm_srm2_mh1.prefab", "AssetBundleName": "chrprfmech_slingbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/sling/chrprfweap_sling_rightarm_srm4_mh1.prefab", "AssetBundleName": "chrprfmech_slingbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/sling/chrprfweap_sling_rightarm_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_slingbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/sling/chrprfweap_sling_rightarm_lrm5_mh1.prefab", "AssetBundleName": "chrprfmech_slingbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/sling/chrprfweap_sling_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_slingbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/sling/chrprfweap_sling_centertorso_srm2_mh1.prefab", "AssetBundleName": "chrprfmech_slingbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/sling/chrprfweap_sling_centertorso_srm4_mh1.prefab", "AssetBundleName": "chrprfmech_slingbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/sling/chrprfweap_sling_centertorso_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_slingbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/sling/chrprfweap_sling_centertorso_lrm5_mh1.prefab", "AssetBundleName": "chrprfmech_slingbase-001" }
 
 	
     ]

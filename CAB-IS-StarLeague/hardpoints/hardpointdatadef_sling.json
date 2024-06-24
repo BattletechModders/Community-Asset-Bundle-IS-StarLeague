@@ -1,0 +1,70 @@
+{
+    "ID" : "hardpointdatadef_sling",
+    "HardpointData" : [
+        {
+            "location" : "leftarm",
+            "weapons" : [
+			[
+			"chrprfweap_sling_leftarm_laser_eh1",
+			"chrprfweap_sling_leftarm_lrm5_mh1",
+			"chrprfweap_sling_leftarm_srm2_mh1",
+			"chrprfweap_sling_leftarm_srm4_mh1",
+			"chrprfweap_sling_leftarm_srm6_mh1"
+			]		
+			],
+            "blanks" : [],
+            "mountingPoints" : []
+        },
+        {
+            "location" : "lefttorso",
+            "weapons" : [],
+            "blanks" : [],
+            "mountingPoints" : []
+        },
+        {
+            "location" : "rightarm",
+            "weapons" : [
+			[
+			"chrprfweap_sling_rightarm_laser_eh1",
+			"chrprfweap_sling_rightarm_lrm5_mh1",
+			"chrprfweap_sling_rightarm_srm2_mh1",
+			"chrprfweap_sling_rightarm_srm4_mh1",
+			"chrprfweap_sling_rightarm_srm6_mh1"
+			]		
+			],
+            "blanks" : [],               
+            "mountingPoints" : []
+        },
+        {
+            "location" : "righttorso",
+            "weapons" : [],
+            "blanks" : [
+			
+            ],
+            "mountingPoints" : []
+        },
+		{
+            "location" : "centertorso",
+            "weapons" : [
+			[
+			"chrprfweap_sling_centertorso_laser_eh1",
+			"chrprfweap_sling_centertorso_lrm5_mh1",
+			"chrprfweap_sling_centertorso_srm2_mh1",
+			"chrprfweap_sling_centertorso_srm4_mh1",
+			"chrprfweap_sling_centertorso_srm6_mh1"
+			]		
+			],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : []
+        },
+		{
+			"location": "head",
+			"weapons": [],
+			"blanks": [],
+			"mountingPoints": []
+		}
+    ]
+	
+}
