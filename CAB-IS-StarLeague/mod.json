@@ -1205,7 +1205,42 @@
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/sling/chrprfweap_sling_centertorso_srm2_mh1.prefab", "AssetBundleName": "chrprfmech_slingbase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/sling/chrprfweap_sling_centertorso_srm4_mh1.prefab", "AssetBundleName": "chrprfmech_slingbase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/sling/chrprfweap_sling_centertorso_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_slingbase-001" },
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/sling/chrprfweap_sling_centertorso_lrm5_mh1.prefab", "AssetBundleName": "chrprfmech_slingbase-001" }
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/sling/chrprfweap_sling_centertorso_lrm5_mh1.prefab", "AssetBundleName": "chrprfmech_slingbase-001" },	
+	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/shogun/chrPrfComp_shogun_simgame.prefab", "AssetBundleName": "chrprfmech_shogunbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_shogunbase-001.prefab", "AssetBundleName": "chrprfmech_shogunbase-001" },	
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/shogun/chrPrfComp_shogun_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_shogunbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/shogun/chrprfweap_shogun_leftarm_laser_eh2.prefab", "AssetBundleName": "chrprfmech_shogunbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/shogun/chrprfweap_shogun_leftarm_lrm5_mh1.prefab", "AssetBundleName": "chrprfmech_shogunbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/shogun/chrprfweap_shogun_leftarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_shogunbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/shogun/chrprfweap_shogun_leftarm_lrm15_mh1.prefab", "AssetBundleName": "chrprfmech_shogunbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/shogun/chrprfweap_shogun_leftarm_lrm20_mh1.prefab", "AssetBundleName": "chrprfmech_shogunbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/shogun/chrprfweap_shogun_lefttorso_laser_eh4.prefab", "AssetBundleName": "chrprfmech_shogunbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/shogun/chrprfweap_shogun_lefttorso_lrm5_mh3.prefab", "AssetBundleName": "chrprfmech_shogunbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/shogun/chrprfweap_shogun_lefttorso_srm2_mh2.prefab", "AssetBundleName": "chrprfmech_shogunbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/shogun/chrprfweap_shogun_lefttorso_srm4_mh2.prefab", "AssetBundleName": "chrprfmech_shogunbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/shogun/chrprfweap_shogun_lefttorso_srm6_mh2.prefab", "AssetBundleName": "chrprfmech_shogunbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/shogun/chrprfweap_shogun_lefttorso_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_shogunbase-001" },		
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/shogun/chrprfweap_shogun_rightarm_laser_eh2.prefab", "AssetBundleName": "chrprfmech_shogunbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/shogun/chrprfweap_shogun_rightarm_lrm5_mh1.prefab", "AssetBundleName": "chrprfmech_shogunbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/shogun/chrprfweap_shogun_rightarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_shogunbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/shogun/chrprfweap_shogun_rightarm_lrm15_mh1.prefab", "AssetBundleName": "chrprfmech_shogunbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/shogun/chrprfweap_shogun_rightarm_lrm20_mh1.prefab", "AssetBundleName": "chrprfmech_shogunbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/shogun/chrprfweap_shogun_righttorso_laser_eh4.prefab", "AssetBundleName": "chrprfmech_shogunbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/shogun/chrprfweap_shogun_righttorso_lrm5_mh3.prefab", "AssetBundleName": "chrprfmech_shogunbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/shogun/chrprfweap_shogun_righttorso_srm2_mh2.prefab", "AssetBundleName": "chrprfmech_shogunbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/shogun/chrprfweap_shogun_righttorso_srm4_mh2.prefab", "AssetBundleName": "chrprfmech_shogunbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/shogun/chrprfweap_shogun_righttorso_srm6_mh2.prefab", "AssetBundleName": "chrprfmech_shogunbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/shogun/chrprfweap_shogun_righttorso_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_shogunbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/shogun/chrprfweap_shogun_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_shogunbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/shogun/chrprfweap_shogun_head_laser_eh1.prefab", "AssetBundleName": "chrprfmech_shogunbase-001" }
 
 	
     ]
