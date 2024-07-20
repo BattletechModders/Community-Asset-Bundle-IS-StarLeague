@@ -1,0 +1,66 @@
+{
+    "ID" : "hardpointdatadef_kyudo",
+    "HardpointData" : [     
+		{
+            "location" : "head",
+            "weapons" : [],
+            "blanks" : [],
+            "mountingPoints" : []
+        },
+		{
+            "location" : "centertorso",
+            "weapons" : [],
+            "blanks" : [],
+            "mountingPoints" : []
+        },
+        {
+            "location" : "righttorso",
+            "weapons" : [
+			[
+			"chrprfweap_kyudo_righttorso_lrm5_mh1",
+			"chrprfweap_kyudo_righttorso_srm2_mh1",
+			"chrprfweap_kyudo_righttorso_laser_eh1",
+			"chrprfweap_kyudo_righttorso_ppc_eh1",
+			"chrprfweap_kyudo_righttorso_ac5_bh1"
+			]
+			],
+            "blanks" : [],
+            "blanks" : [],
+            "mountingPoints" : []
+        },
+        {
+            "location" : "lefttorso",
+            "weapons" : [
+			[
+			"chrprfweap_kyudo_lefttorso_lrm5_mh1",
+			"chrprfweap_kyudo_lefttorso_srm2_mh1",
+			"chrprfweap_kyudo_lefttorso_laser_eh1",
+			"chrprfweap_kyudo_lefttorso_ppc_eh1",
+			"chrprfweap_kyudo_lefttorso_ac5_bh1"
+			]
+			],
+            "blanks" : [],
+            "mountingPoints" : []
+        },
+		{
+            "location" : "leftarm",
+            "weapons" : [],
+            "blanks" : [],
+            "mountingPoints" : []
+        },
+        {
+            "location" : "rightarm",
+            "weapons" : [
+			[
+			"chrprfweap_kyudo_rightarm_laser_eh1",
+			"chrprfweap_kyudo_rightarm_ppc_eh1",
+			"chrprfweap_kyudo_rightarm_ac5_bh1"
+			]
+			],
+            "blanks" : [],             
+            "mountingPoints" : []
+        }
+
+    ]
+	
+}

@@ -2,6 +2,10 @@ Changelog for CAB-IS-StarLeague
 
 -----------------------------------------------------
 
+1.5
+
+Added the Kyudo
+
 1.4
 
 Added Shogun

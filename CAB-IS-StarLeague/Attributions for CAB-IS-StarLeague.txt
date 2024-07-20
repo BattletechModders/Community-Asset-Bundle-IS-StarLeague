@@ -27,6 +27,7 @@ Jackrabbit
 Rampage
 Sling
 Shogun
+Kyudo
 
 Piranha Games, Inc.
 Models:

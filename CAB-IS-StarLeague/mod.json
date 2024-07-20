@@ -1240,8 +1240,28 @@
 
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/shogun/chrprfweap_shogun_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_shogunbase-001" },
 
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/shogun/chrprfweap_shogun_head_laser_eh1.prefab", "AssetBundleName": "chrprfmech_shogunbase-001" }
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/shogun/chrprfweap_shogun_head_laser_eh1.prefab", "AssetBundleName": "chrprfmech_shogunbase-001" },	
+	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/kyudo/chrPrfComp_kyudo_simgame.prefab", "AssetBundleName": "chrprfmech_kyudobase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_kyudobase-001.prefab", "AssetBundleName": "chrprfmech_kyudobase-001" },	
 
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/kyudo/chrPrfComp_kyudo_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_kyudobase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/kyudo/chrprfweap_kyudo_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_kyudobase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/kyudo/chrprfweap_kyudo_rightarm_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_kyudobase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/kyudo/chrprfweap_kyudo_rightarm_ac5_bh1.prefab", "AssetBundleName": "chrprfmech_kyudobase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/kyudo/chrprfweap_kyudo_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_kyudobase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/kyudo/chrprfweap_kyudo_lefttorso_lrm5_mh1.prefab", "AssetBundleName": "chrprfmech_kyudobase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/kyudo/chrprfweap_kyudo_lefttorso_srm2_mh1.prefab", "AssetBundleName": "chrprfmech_kyudobase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/kyudo/chrprfweap_kyudo_lefttorso_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_kyudobase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/kyudo/chrprfweap_kyudo_lefttorso_ac5_bh1.prefab", "AssetBundleName": "chrprfmech_kyudobase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/kyudo/chrprfweap_kyudo_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_kyudobase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/kyudo/chrprfweap_kyudo_righttorso_lrm5_mh1.prefab", "AssetBundleName": "chrprfmech_kyudobase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/kyudo/chrprfweap_kyudo_righttorso_srm2_mh1.prefab", "AssetBundleName": "chrprfmech_kyudobase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/kyudo/chrprfweap_kyudo_righttorso_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_kyudobase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/kyudo/chrprfweap_kyudo_righttorso_ac5_bh1.prefab", "AssetBundleName": "chrprfmech_kyudobase-001" }
 	
     ]
 }
