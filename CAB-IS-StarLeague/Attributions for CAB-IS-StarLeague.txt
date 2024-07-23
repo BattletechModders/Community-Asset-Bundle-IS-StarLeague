@@ -28,6 +28,7 @@ Rampage
 Sling
 Shogun
 Kyudo
+Stinger LAM v2
 
 Piranha Games, Inc.
 Models:
