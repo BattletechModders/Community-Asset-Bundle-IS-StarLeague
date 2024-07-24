@@ -2,6 +2,10 @@ Changelog for CAB-IS-StarLeague
 
 -----------------------------------------------------
 
+1.7
+
+Added the Wasp LAM v2 
+
 1.6
 
 Added the Stinger LAM v2

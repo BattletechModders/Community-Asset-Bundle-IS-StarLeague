@@ -29,6 +29,7 @@ Sling
 Shogun
 Kyudo
 Stinger LAM v2
+Wasp LAM v2
 
 Piranha Games, Inc.
 Models:
