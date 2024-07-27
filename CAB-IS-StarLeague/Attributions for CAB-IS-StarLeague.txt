@@ -76,3 +76,7 @@ Koschei
 AshTree and Transient74
 Models:
 Excalibur
+
+FrostRaptor and Transient
+Models:
+Scorpion LAM

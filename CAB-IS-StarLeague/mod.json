@@ -1362,7 +1362,14 @@
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/wasplamv2/chrprfweap_wasplamv2_lefttorso_uac5_bh1.prefab", "AssetBundleName": "chrprfmech_wasplamv2base-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/wasplamv2/chrprfweap_wasplamv2_lefttorso_mg_bh1.prefab", "AssetBundleName": "chrprfmech_wasplamv2base-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/wasplamv2/chrprfweap_wasplamv2_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_wasplamv2base-001" },
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/wasplamv2/chrprfweap_wasplamv2_lefttorso_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_wasplamv2base-001" }
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/wasplamv2/chrprfweap_wasplamv2_lefttorso_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_wasplamv2base-001" },	
+	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/scorplam/chrPrfComp_scorplam_simgame.prefab", "AssetBundleName": "chrprfmech_scorplambase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_scorplambase-001.prefab", "AssetBundleName": "chrprfmech_scorplambase-001" },	
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/scorplam/chrPrfComp_scorplam_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_scorplambase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/scorplam/chrprfweap_scorplam_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_scorplambase-001" }
 	
     ]
 }

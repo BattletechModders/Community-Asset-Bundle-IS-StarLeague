@@ -1,0 +1,48 @@
+{
+    "ID" : "hardpointdatadef_scorplam",
+    "HardpointData" : [     
+		{
+            "location" : "head",
+            "weapons" : [],
+            "blanks" : [],
+            "mountingPoints" : []
+        },
+		{
+            "location" : "centertorso",
+          "weapons" : [],
+            "blanks" : [],
+            "mountingPoints" : []
+        },
+        {
+            "location" : "righttorso",
+            "weapons" : [
+			[
+			"chrprfweap_scorplam_righttorso_laser_eh1"
+			]
+			],
+            "blanks" : [],
+            "blanks" : [],
+            "mountingPoints" : []
+        },
+        {
+            "location" : "lefttorso",
+            "weapons" : [],
+            "blanks" : [],
+            "mountingPoints" : []
+        },
+		{
+            "location" : "leftarm",
+        "weapons" : [],
+            "blanks" : [],
+            "mountingPoints" : []
+        },
+        {
+            "location" : "rightarm",
+        "weapons" : [],
+            "blanks" : [],             
+            "mountingPoints" : []
+        }
+
+    ]
+	
+}
