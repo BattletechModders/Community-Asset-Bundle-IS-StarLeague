@@ -1261,7 +1261,9 @@
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/kyudo/chrprfweap_kyudo_righttorso_lrm5_mh1.prefab", "AssetBundleName": "chrprfmech_kyudobase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/kyudo/chrprfweap_kyudo_righttorso_srm2_mh1.prefab", "AssetBundleName": "chrprfmech_kyudobase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/kyudo/chrprfweap_kyudo_righttorso_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_kyudobase-001" },
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/kyudo/chrprfweap_kyudo_righttorso_ac5_bh1.prefab", "AssetBundleName": "chrprfmech_kyudobase-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/kyudo/chrprfweap_kyudo_righttorso_ac5_bh1.prefab", "AssetBundleName": "chrprfmech_kyudobase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/kyudo/chrprfweap_kyudo_leftarm_lrm15_mh1.prefab", "AssetBundleName": "chrprfmech_kyudobase-001" },
 	
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/stingerlamv2/chrPrfComp_stingerlamv2_simgame.prefab", "AssetBundleName": "chrprfmech_stingerlamv2base-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_stingerlamv2base-001.prefab", "AssetBundleName": "chrprfmech_stingerlamv2base-001" },	

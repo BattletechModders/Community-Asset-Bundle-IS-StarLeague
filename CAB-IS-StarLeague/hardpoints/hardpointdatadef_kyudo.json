@@ -44,7 +44,9 @@
         },
 		{
             "location" : "leftarm",
-            "weapons" : [],
+            "weapons" : [
+			"chrprfweap_kyudo_leftarm_lrm15_mh1"			
+			],
             "blanks" : [],
             "mountingPoints" : []
         },
