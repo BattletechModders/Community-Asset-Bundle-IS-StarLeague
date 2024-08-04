@@ -31,6 +31,7 @@ Kyudo
 Stinger LAM v2
 Wasp LAM v2
 Striker (Mech)
+Bigfoot
 
 Piranha Games, Inc.
 Models:
