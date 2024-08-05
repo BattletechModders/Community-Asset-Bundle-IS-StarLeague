@@ -1454,7 +1454,46 @@
 		
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/bigfoot/chrprfweap_bigfoot_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_bigfootbase-001" },
 
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/bigfoot/chrprfweap_bigfoot_head_laser_eh1.prefab", "AssetBundleName": "chrprfmech_bigfootbase-001" }
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/bigfoot/chrprfweap_bigfoot_head_laser_eh1.prefab", "AssetBundleName": "chrprfmech_bigfootbase-001" },	
+	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/tomahawk/chrPrfComp_tomahawk_simgame.prefab", "AssetBundleName": "chrprfmech_tomahawkbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_tomahawkbase-001.prefab", "AssetBundleName": "chrprfmech_tomahawkbase-001" },	
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/tomahawk/chrPrfComp_tomahawk_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_tomahawkbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/sling/chrprfweap_tomahawk_righttorso_blank_mh1.prefab", "AssetBundleName": "chrprfmech_tomahawkbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/sling/chrprfweap_tomahawk_righttorso_lrm5_mh1.prefab", "AssetBundleName": "chrprfmech_tomahawkbase-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/sling/chrprfweap_tomahawk_righttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_tomahawkbase-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/sling/chrprfweap_tomahawk_righttorso_lrm15_mh1.prefab", "AssetBundleName": "chrprfmech_tomahawkbase-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/sling/chrprfweap_tomahawk_righttorso_laser_eh2.prefab", "AssetBundleName": "chrprfmech_tomahawkbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/sling/chrprfweap_tomahawk_righttorso_ppc_eh2.prefab", "AssetBundleName": "chrprfmech_tomahawkbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/sling/chrprfweap_tomahawk_righttorso_laser_eh3.prefab", "AssetBundleName": "chrprfmech_tomahawkbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/sling/chrprfweap_tomahawk_righttorso_ppc_eh3.prefab", "AssetBundleName": "chrprfmech_tomahawkbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/sling/chrprfweap_tomahawk_righttorso_srm2_mh4.prefab", "AssetBundleName": "chrprfmech_tomahawkbase-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/sling/chrprfweap_tomahawk_righttorso_srm4_mh4.prefab", "AssetBundleName": "chrprfmech_tomahawkbase-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/sling/chrprfweap_tomahawk_righttorso_srm6_mh4.prefab", "AssetBundleName": "chrprfmech_tomahawkbase-001" },	
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/sling/chrprfweap_tomahawk_lefttorso_blank_mh1.prefab", "AssetBundleName": "chrprfmech_tomahawkbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/sling/chrprfweap_tomahawk_lefttorso_lrm5_mh1.prefab", "AssetBundleName": "chrprfmech_tomahawkbase-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/sling/chrprfweap_tomahawk_lefttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_tomahawkbase-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/sling/chrprfweap_tomahawk_lefttorso_lrm15_mh1.prefab", "AssetBundleName": "chrprfmech_tomahawkbase-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/sling/chrprfweap_tomahawk_lefttorso_laser_eh2.prefab", "AssetBundleName": "chrprfmech_tomahawkbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/sling/chrprfweap_tomahawk_lefttorso_ppc_eh2.prefab", "AssetBundleName": "chrprfmech_tomahawkbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/sling/chrprfweap_tomahawk_lefttorso_laser_eh3.prefab", "AssetBundleName": "chrprfmech_tomahawkbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/sling/chrprfweap_tomahawk_lefttorso_ppc_eh3.prefab", "AssetBundleName": "chrprfmech_tomahawkbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/sling/chrprfweap_tomahawk_leftarm_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_tomahawkbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/sling/chrprfweap_tomahawk_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_tomahawkbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/sling/chrprfweap_tomahawk_leftarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_tomahawkbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/sling/chrprfweap_tomahawk_rightarm_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_tomahawkbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/sling/chrprfweap_tomahawk_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_tomahawkbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/sling/chrprfweap_tomahawk_rightarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_tomahawkbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/sling/chrprfweap_tomahawk_head_laser_eh1.prefab", "AssetBundleName": "chrprfmech_tomahawkbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/sling/chrprfweap_tomahawk_centertorso_mg_bh1.prefab", "AssetBundleName": "chrprfmech_tomahawkbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/sling/chrprfweap_tomahawk_centertorso_mg_bh2.prefab", "AssetBundleName": "chrprfmech_tomahawkbase-001" }
 	
     ]
 }

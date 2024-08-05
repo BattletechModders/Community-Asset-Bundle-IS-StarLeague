@@ -2,6 +2,10 @@ Changelog for CAB-IS-StarLeague
 
 -----------------------------------------------------
 
+2.1
+
+Added the Tomahawk (unseen Warhammer)
+
 2.0
 
 Added the Bigfoot (unseen Battlemaster)

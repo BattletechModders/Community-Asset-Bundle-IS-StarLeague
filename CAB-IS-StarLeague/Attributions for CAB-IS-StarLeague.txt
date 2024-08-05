@@ -32,6 +32,7 @@ Stinger LAM v2
 Wasp LAM v2
 Striker (Mech)
 Bigfoot
+Tomahawk
 
 Piranha Games, Inc.
 Models:

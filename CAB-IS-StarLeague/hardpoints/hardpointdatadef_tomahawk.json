@@ -1,0 +1,104 @@
+{
+    "ID" : "hardpointdatadef_tomahawk",
+    "HardpointData" : [
+        {
+            "location" : "leftarm",
+            "weapons" : [
+			[
+			"chrprfweap_tomahawk_leftarm_ppc_eh1",
+			"chrprfweap_tomahawk_leftarm_laser_eh1",
+			"chrprfweap_tomahawk_leftarm_ac10_bh1"
+			]
+			],
+            "blanks" : [],
+            "mountingPoints" : []
+        },
+        {
+            "location" : "lefttorso",
+            "weapons" : [
+			[
+			"chrprfweap_tomahawk_lefttorso_lrm5_mh1",
+			"chrprfweap_tomahawk_lefttorso_lrm10_mh1",
+			"chrprfweap_tomahawk_lefttorso_lrm15_mh1"
+			],
+			[
+			"chrprfweap_tomahawk_lefttorso_laser_eh2",
+			"chrprfweap_tomahawk_lefttorso_ppc_eh2"
+			],
+			[
+			"chrprfweap_tomahawk_lefttorso_laser_eh3",
+			"chrprfweap_tomahawk_lefttorso_ppc_eh3"
+			]
+			],
+            "blanks" : [
+			"chrprfweap_tomahawk_lefttorso_blank_mh1"
+			],
+            "mountingPoints" : []
+        },
+        {
+            "location" : "rightarm",
+            "weapons" : [
+			[
+			"chrprfweap_tomahawk_rightarm_ppc_eh1",
+			"chrprfweap_tomahawk_rightarm_laser_eh1",
+			"chrprfweap_tomahawk_rightarm_ac10_bh1"
+			]
+			],
+            "blanks" : [],
+            "mountingPoints" : []
+        },
+        {
+            "location" : "righttorso",
+            "weapons" : [
+			[
+			"chrprfweap_tomahawk_righttorso_lrm5_mh1",
+			"chrprfweap_tomahawk_righttorso_lrm10_mh1",
+			"chrprfweap_tomahawk_righttorso_lrm15_mh1"
+			],
+			[
+			"chrprfweap_tomahawk_righttorso_laser_eh2",
+			"chrprfweap_tomahawk_righttorso_ppc_eh2"
+			],
+			[
+			"chrprfweap_tomahawk_righttorso_laser_eh3",
+			"chrprfweap_tomahawk_righttorso_ppc_eh3"
+			],
+			[
+			"chrprfweap_tomahawk_righttorso_srm2_mh4",
+			"chrprfweap_tomahawk_righttorso_srm4_mh4",
+			"chrprfweap_tomahawk_righttorso_srm6_mh4"
+			]
+			],
+            "blanks" : [
+			"chrprfweap_tomahawk_righttorso_blank_mh1"
+			],
+            "mountingPoints" : []
+        },
+		{
+            "location" : "centertorso",
+            "weapons" : [
+			[
+			"chrprfweap_tomahawk_centertorso_mg_bh1"
+			],
+			[
+			"chrprfweap_tomahawk_centertorso_mg_bh2"
+			]
+			],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : []
+        },
+		{
+			"location": "head",
+            "weapons" : [
+			[
+			"chrprfweap_tomahawk_head_laser_eh1"
+			]
+			],
+			"blanks": [],
+			"mountingPoints": []
+		}
+    ]
+	
+}
