@@ -33,6 +33,7 @@ Wasp LAM v2
 Striker (Mech)
 Bigfoot
 Tomahawk
+Mercury
 
 Piranha Games, Inc.
 Models:

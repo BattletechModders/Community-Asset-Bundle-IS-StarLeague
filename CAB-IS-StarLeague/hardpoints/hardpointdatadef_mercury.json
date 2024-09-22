@@ -1,0 +1,90 @@
+{
+    "ID" : "hardpointdatadef_mercury",
+    "HardpointData" : [
+        {
+            "location" : "leftarm",
+            "weapons" : [
+			[
+			"chrprfweap_mercury_leftarm_laser_eh1",
+			"chrprfweap_mercury_leftarm_ppc_eh1",
+			"chrprfweap_mercury_leftarm_mg_bh1"
+			]
+            ],
+            "blanks" : [],
+            "mountingPoints" : []
+        },
+		{
+            "location" : "head",
+            "weapons" : [
+			[
+			"chrprfweap_mercury_head_laser_eh1"
+			]
+            ],
+            "blanks" : [],
+            "mountingPoints" : []
+        },
+        {
+            "location" : "lefttorso",
+            "weapons" : [
+			[
+			"chrprfweap_mercury_lefttorso_laser_eh1"
+			],
+			[
+			"chrprfweap_mercury_lefttorso_laser_eh2"
+			],
+			[
+			"chrprfweap_mercury_lefttorso_lrm5_mh3",
+			"chrprfweap_mercury_lefttorso_srm2_mh3",
+			"chrprfweap_mercury_lefttorso_srm4_mh3",
+			"chrprfweap_mercury_lefttorso_srm6_mh3",
+			"chrprfweap_mercury_lefttorso_mg_bh3"
+			]
+			],
+            "blanks" : [],
+            "mountingPoints" : []
+        },
+        {
+            "location" : "rightarm",
+            "weapons" : [
+			[
+			"chrprfweap_mercury_rightarm_laser_eh1",
+			"chrprfweap_mercury_rightarm_ppc_eh1",
+			"chrprfweap_mercury_rightarm_mg_bh1"
+			]
+			],
+            "blanks" : [],
+            "mountingPoints" : []
+        },
+        {
+            "location" : "righttorso",
+            "weapons" : [
+			[
+			"chrprfweap_mercury_righttorso_laser_eh1"
+			],
+			[
+			"chrprfweap_mercury_righttorso_laser_eh2"
+			],
+			[
+			"chrprfweap_mercury_righttorso_lrm5_mh3",
+			"chrprfweap_mercury_righttorso_srm2_mh3",
+			"chrprfweap_mercury_righttorso_srm4_mh3",
+			"chrprfweap_mercury_righttorso_srm6_mh3",
+			"chrprfweap_mercury_righttorso_mg_bh3"
+			]
+			],
+            "blanks" : [],
+            "mountingPoints" : [ ]
+        },
+		{
+            "location" : "centertorso",
+            "weapons" : [
+			[
+			"chrprfweap_mercury_centertorso_laser_eh1"
+			]
+            ],
+            "blanks" : [],
+            "mountingPoints" : []
+        }
+    ]
+	
+}

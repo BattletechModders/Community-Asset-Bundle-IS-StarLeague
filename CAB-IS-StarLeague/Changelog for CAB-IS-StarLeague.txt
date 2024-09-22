@@ -2,6 +2,10 @@ Changelog for CAB-IS-StarLeague
 
 -----------------------------------------------------
 
+2.2
+
+Added the Mercury 
+
 2.1
 
 Added the Tomahawk (unseen Warhammer)
