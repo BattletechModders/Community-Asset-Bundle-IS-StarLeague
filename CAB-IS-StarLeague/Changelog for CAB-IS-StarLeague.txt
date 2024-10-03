@@ -2,6 +2,10 @@ Changelog for CAB-IS-StarLeague
 
 -----------------------------------------------------
 
+2.3
+
+Added the 331st Mercury 
+
 2.2
 
 Added the Mercury 

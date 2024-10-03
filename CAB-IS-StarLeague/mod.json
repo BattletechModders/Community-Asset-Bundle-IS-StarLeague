@@ -1525,7 +1525,39 @@
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/mercury/chrprfweap_mercury_leftarm_mg_bh1.prefab", "AssetBundleName": "chrprfmech_mercurybase-001" },
 
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/mercury/chrprfweap_mercury_head_laser_eh1.prefab", "AssetBundleName": "chrprfmech_mercurybase-001" },
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/mercury/chrprfweap_mercury_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_mercurybase-001" }
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/mercury/chrprfweap_mercury_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_mercurybase-001" },	
+	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/331mercurylight/chrPrfComp_331mercurylight_simgame.prefab", "AssetBundleName": "chrprfmech_331mercurylightbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_331mercurylightbase-001.prefab", "AssetBundleName": "chrprfmech_331mercurylightbase-001" },	
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/331mercurylight/chrPrfComp_331mercurylight_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_331mercurylightbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/331mercurylight/chrprfweap_331mercurylight_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_331mercurylightbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/331mercurylight/chrprfweap_331mercurylight_lefttorso_laser_eh2.prefab", "AssetBundleName": "chrprfmech_331mercurylightbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/331mercurylight/chrprfweap_331mercurylight_lefttorso_lrm5_mh3.prefab", "AssetBundleName": "chrprfmech_331mercurylightbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/331mercurylight/chrprfweap_331mercurylight_lefttorso_srm2_mh3.prefab", "AssetBundleName": "chrprfmech_331mercurylightbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/331mercurylight/chrprfweap_331mercurylight_lefttorso_srm4_mh3.prefab", "AssetBundleName": "chrprfmech_331mercurylightbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/331mercurylight/chrprfweap_331mercurylight_lefttorso_srm6_mh3.prefab", "AssetBundleName": "chrprfmech_331mercurylightbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/331mercurylight/chrprfweap_331mercurylight_lefttorso_mg_bh3.prefab", "AssetBundleName": "chrprfmech_331mercurylightbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/331mercurylight/chrprfweap_331mercurylight_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_331mercurylightbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/331mercurylight/chrprfweap_331mercurylight_righttorso_laser_eh2.prefab", "AssetBundleName": "chrprfmech_331mercurylightbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/331mercurylight/chrprfweap_331mercurylight_righttorso_lrm5_mh3.prefab", "AssetBundleName": "chrprfmech_331mercurylightbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/331mercurylight/chrprfweap_331mercurylight_righttorso_srm2_mh3.prefab", "AssetBundleName": "chrprfmech_331mercurylightbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/331mercurylight/chrprfweap_331mercurylight_righttorso_srm4_mh3.prefab", "AssetBundleName": "chrprfmech_331mercurylightbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/331mercurylight/chrprfweap_331mercurylight_righttorso_srm6_mh3.prefab", "AssetBundleName": "chrprfmech_331mercurylightbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/331mercurylight/chrprfweap_331mercurylight_righttorso_mg_bh3.prefab", "AssetBundleName": "chrprfmech_331mercurylightbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/331mercurylight/chrprfweap_331mercurylight_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_331mercurylightbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/331mercurylight/chrprfweap_331mercurylight_rightarm_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_331mercurylightbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/331mercurylight/chrprfweap_331mercurylight_rightarm_mg_bh1.prefab", "AssetBundleName": "chrprfmech_331mercurylightbase-001" },	
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/331mercurylight/chrprfweap_331mercurylight_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_331mercurylightbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/331mercurylight/chrprfweap_331mercurylight_leftarm_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_331mercurylightbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/331mercurylight/chrprfweap_331mercurylight_leftarm_mg_bh1.prefab", "AssetBundleName": "chrprfmech_331mercurylightbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/331mercurylight/chrprfweap_331mercurylight_head_laser_eh1.prefab", "AssetBundleName": "chrprfmech_331mercurylightbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/331mercurylight/chrprfweap_331mercurylight_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_331mercurylightbase-001" }
 	
     ]
 }

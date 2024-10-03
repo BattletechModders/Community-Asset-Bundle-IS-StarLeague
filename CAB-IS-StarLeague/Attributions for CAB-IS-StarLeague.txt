@@ -34,6 +34,7 @@ Striker (Mech)
 Bigfoot
 Tomahawk
 Mercury
+Mercury 331st
 
 Piranha Games, Inc.
 Models:
