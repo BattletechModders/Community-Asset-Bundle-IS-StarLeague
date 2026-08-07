@@ -2,6 +2,10 @@ Changelog for CAB-IS-StarLeague
 
 -----------------------------------------------------
 
+2.4
+
+Added the Atlas II
+
 2.3
 
 Added the 331st Mercury 
