@@ -1,171 +1,10 @@
 {
   "ID": "hardpointdatadef_atlasii",
-  "CustomHardpoints": {
-    "prefabs": [
-      { "prefab": "chrprfweap_atlasii_lefttorso_laser_eh1", "attachType": "Body", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1" },
-      { "prefab": "chrprfweap_atlasii_lefttorso_ppc_eh1", "attachType": "Body", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1" },
-      { "prefab": "chrprfweap_atlasii_lt_srm6_mh1", "attachType": "Body", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1" },
-      { "prefab": "chrprfweap_atlasii_lt_lrm20_mh1", "attachType": "Body", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1" },
-      { "prefab": "chrprfweap_atlasii_rt_srm6_mh1", "attachType": "Body", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1" },
-      { "prefab": "chrprfweap_atlasii_rt_lrm20_mh2", "attachType": "Body", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1" },
-      {
-        "prefab": "chrprfweap_atlasii_la_laser_eh1",
-        "attachType": "Body",
-        "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1",
-        "keepShaderIn": [ "as7_left_arm_forearm_laser_eh1" ]
-      },
-      { "prefab": "chrprfweap_atlasii_la_ppc_eh1", "attachType": "Body", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1" },
-      {
-        "prefab": "chrprfweap_atlasii_la_laser_eh2",
-        "attachType": "Body",
-        "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1",
-        "keepShaderIn": [ "as7_left_arm_forearm_laser_eh2" ]
-      },
-      { "prefab": "chrprfweap_atlasii_la_ppc_eh2", "attachType": "Body", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1" },
-      {
-        "prefab": "chrprfweap_atlasii_ra_ac10_bh1",
-        "attachType": "Body",
-        "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1",
-        "keepShaderIn": [ "as7_right_arm_forearm_laser_eh1" ]
-      },
-      { "prefab": "chrprfweap_atlasii_lefttorso_laser_eh2", "attachType": "Body", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1" }
-    ],
-    "aliases": {
-      "chrPrfWeap_atlasii_centertorso_laser_eh1": { "location": "centertorso", "prefab": "chrprfweap_atlasii_lefttorso_laser_eh1" },
-      "chrPrfWeap_atlasii_centertorso_ppc_eh1": { "location": "centertorso", "prefab": "chrprfweap_atlasii_lefttorso_ppc_eh1" },
-      "chrPrfWeap_atlasii_centertorso_erppc_eh1": { "location": "centertorso", "prefab": "chrprfweap_atlasii_lefttorso_ppc_eh1" },
-      "chrPrfWeap_atlasii_centertorso_hppc_eh1": { "location": "centertorso", "prefab": "chrprfweap_atlasii_lefttorso_ppc_eh1" },
-      "chrPrfWeap_atlasii_centertorso_lppc_eh1": { "location": "centertorso", "prefab": "chrprfweap_atlasii_lefttorso_ppc_eh1" },
-      "chrPrfWeap_atlasii_centertorso_snppc_eh1": { "location": "centertorso", "prefab": "chrprfweap_atlasii_lefttorso_ppc_eh1" },
-      "chrPrfWeap_atlasii_centertorso_plasma_eh1": { "location": "centertorso", "prefab": "chrprfweap_atlasii_lefttorso_laser_eh1" },
-      "chrPrfWeap_atlasii_centertorso_flamer_eh1": { "location": "centertorso", "prefab": "chrprfweap_atlasii_lefttorso_laser_eh1" },
-      "chrPrfWeap_atlasii_lefttorso_atm3_mh1": { "location": "lefttorso", "prefab": "chrprfweap_atlasii_lt_srm6_mh1" },
-      "chrPrfWeap_atlasii_lefttorso_atm6_mh1": { "location": "lefttorso", "prefab": "chrprfweap_atlasii_lt_srm6_mh1" },
-      "chrPrfWeap_atlasii_lefttorso_narc_mh1": { "location": "lefttorso", "prefab": "chrprfweap_atlasii_lt_srm6_mh1" },
-      "chrPrfWeap_atlasii_lefttorso_rl10_mh1": { "location": "lefttorso", "prefab": "chrprfweap_atlasii_lt_srm6_mh1" },
-      "chrPrfWeap_atlasii_lefttorso_rl15_mh1": { "location": "lefttorso", "prefab": "chrprfweap_atlasii_lt_srm6_mh1" },
-      "chrPrfWeap_atlasii_lefttorso_rl20_mh1": { "location": "lefttorso", "prefab": "chrprfweap_atlasii_lt_srm6_mh1" },
-      "chrPrfWeap_atlasii_lefttorso_srm2_mh1": { "location": "lefttorso", "prefab": "chrprfweap_atlasii_lt_srm6_mh1" },
-      "chrPrfWeap_atlasii_lefttorso_srm4_mh1": { "location": "lefttorso", "prefab": "chrprfweap_atlasii_lt_srm6_mh1" },
-      "chrPrfWeap_atlasii_lefttorso_srm6_mh1": { "location": "lefttorso", "prefab": "chrprfweap_atlasii_lt_srm6_mh1" },
-      "chrPrfWeap_atlasii_lefttorso_streak_mh1": { "location": "lefttorso", "prefab": "chrprfweap_atlasii_lt_srm6_mh1" },
-      "chrPrfWeap_atlasii_lefttorso_lrm5_mh1": { "location": "lefttorso", "prefab": "chrprfweap_atlasii_lt_srm6_mh1" },
-      "chrPrfWeap_atlasii_lefttorso_lrm10_mh1": { "location": "lefttorso", "prefab": "chrprfweap_atlasii_lt_srm6_mh1" },
-      "chrPrfWeap_atlasii_lefttorso_lrm15_mh1": { "location": "lefttorso", "prefab": "chrprfweap_atlasii_lt_srm6_mh1" },
-      "chrPrfWeap_atlasii_lefttorso_lrm20_mh1": { "location": "lefttorso", "prefab": "chrprfweap_atlasii_lt_srm6_mh1" },
-      "chrPrfWeap_atlasii_lefttorso_mrm10_mh1": { "location": "lefttorso", "prefab": "chrprfweap_atlasii_lt_srm6_mh1" },
-      "chrPrfWeap_atlasii_lefttorso_mrm20_mh1": { "location": "lefttorso", "prefab": "chrprfweap_atlasii_lt_srm6_mh1" },
-      "chrPrfWeap_atlasii_lefttorso_mrm30_mh1": { "location": "lefttorso", "prefab": "chrprfweap_atlasii_lt_srm6_mh1" },
-      "chrPrfWeap_atlasii_lefttorso_mrm40_mh1": { "location": "lefttorso", "prefab": "chrprfweap_atlasii_lt_srm6_mh1" },
-      "chrPrfWeap_atlasii_lefttorso_srm12_mh1": { "location": "lefttorso", "prefab": "chrprfweap_atlasii_lt_srm6_mh1" },
-      "chrPrfWeap_atlasii_lefttorso_thunderbolt_mh1": { "location": "lefttorso", "prefab": "chrprfweap_atlasii_lt_srm6_mh1" },
-      "chrPrfWeap_atlasii_righttorso_atm3_mh1": { "location": "righttorso", "prefab": "chrprfweap_atlasii_rt_lrm20_mh2" },
-      "chrPrfWeap_atlasii_righttorso_atm3_mh2": { "location": "righttorso", "prefab": "chrprfweap_atlasii_rt_lrm20_mh2" },
-      "chrPrfWeap_atlasii_righttorso_atm6_mh1": { "location": "righttorso", "prefab": "chrprfweap_atlasii_rt_lrm20_mh2" },
-      "chrPrfWeap_atlasii_righttorso_atm6_mh2": { "location": "righttorso", "prefab": "chrprfweap_atlasii_rt_lrm20_mh2" },
-      "chrPrfWeap_atlasii_righttorso_narc_mh1": { "location": "righttorso", "prefab": "chrprfweap_atlasii_rt_lrm20_mh2" },
-      "chrPrfWeap_atlasii_righttorso_narc_mh2": { "location": "righttorso", "prefab": "chrprfweap_atlasii_rt_lrm20_mh2" },
-      "chrPrfWeap_atlasii_righttorso_rl10_mh1": { "location": "righttorso", "prefab": "chrprfweap_atlasii_rt_lrm20_mh2" },
-      "chrPrfWeap_atlasii_righttorso_rl10_mh2": { "location": "righttorso", "prefab": "chrprfweap_atlasii_rt_lrm20_mh2" },
-      "chrPrfWeap_atlasii_righttorso_rl15_mh1": { "location": "righttorso", "prefab": "chrprfweap_atlasii_rt_lrm20_mh2" },
-      "chrPrfWeap_atlasii_righttorso_rl15_mh2": { "location": "righttorso", "prefab": "chrprfweap_atlasii_rt_lrm20_mh2" },
-      "chrPrfWeap_atlasii_righttorso_rl20_mh1": { "location": "righttorso", "prefab": "chrprfweap_atlasii_rt_lrm20_mh2" },
-      "chrPrfWeap_atlasii_righttorso_rl20_mh2": { "location": "righttorso", "prefab": "chrprfweap_atlasii_rt_lrm20_mh2" },
-      "chrPrfWeap_atlasii_righttorso_srm2_mh1": { "location": "righttorso", "prefab": "chrprfweap_atlasii_rt_lrm20_mh2" },
-      "chrPrfWeap_atlasii_righttorso_srm2_mh2": { "location": "righttorso", "prefab": "chrprfweap_atlasii_rt_lrm20_mh2" },
-      "chrPrfWeap_atlasii_righttorso_srm4_mh1": { "location": "righttorso", "prefab": "chrprfweap_atlasii_rt_lrm20_mh2" },
-      "chrPrfWeap_atlasii_righttorso_srm4_mh2": { "location": "righttorso", "prefab": "chrprfweap_atlasii_rt_lrm20_mh2" },
-      "chrPrfWeap_atlasii_righttorso_srm6_mh1": { "location": "righttorso", "prefab": "chrprfweap_atlasii_rt_lrm20_mh2" },
-      "chrPrfWeap_atlasii_righttorso_srm6_mh2": { "location": "righttorso", "prefab": "chrprfweap_atlasii_rt_lrm20_mh2" },
-      "chrPrfWeap_atlasii_righttorso_streak_mh1": { "location": "righttorso", "prefab": "chrprfweap_atlasii_rt_lrm20_mh2" },
-      "chrPrfWeap_atlasii_righttorso_streak_mh2": { "location": "righttorso", "prefab": "chrprfweap_atlasii_rt_lrm20_mh2" },
-      "chrPrfWeap_atlasii_righttorso_lrm5_mh1": { "location": "righttorso", "prefab": "chrprfweap_atlasii_rt_lrm20_mh2" },
-      "chrPrfWeap_atlasii_righttorso_lrm5_mh2": { "location": "righttorso", "prefab": "chrprfweap_atlasii_rt_lrm20_mh2" },
-      "chrPrfWeap_atlasii_righttorso_lrm10_mh1": { "location": "righttorso", "prefab": "chrprfweap_atlasii_rt_lrm20_mh2" },
-      "chrPrfWeap_atlasii_righttorso_lrm10_mh2": { "location": "righttorso", "prefab": "chrprfweap_atlasii_rt_lrm20_mh2" },
-      "chrPrfWeap_atlasii_righttorso_lrm15_mh1": { "location": "righttorso", "prefab": "chrprfweap_atlasii_rt_lrm20_mh2" },
-      "chrPrfWeap_atlasii_righttorso_lrm15_mh2": { "location": "righttorso", "prefab": "chrprfweap_atlasii_rt_lrm20_mh2" },
-      "chrPrfWeap_atlasii_righttorso_lrm20_mh1": { "location": "righttorso", "prefab": "chrprfweap_atlasii_rt_lrm20_mh2" },
-      "chrPrfWeap_atlasii_righttorso_lrm20_mh2": { "location": "righttorso", "prefab": "chrprfweap_atlasii_rt_lrm20_mh2" },
-      "chrPrfWeap_atlasii_righttorso_mrm10_mh1": { "location": "righttorso", "prefab": "chrprfweap_atlasii_rt_lrm20_mh2" },
-      "chrPrfWeap_atlasii_righttorso_mrm10_mh2": { "location": "righttorso", "prefab": "chrprfweap_atlasii_rt_lrm20_mh2" },
-      "chrPrfWeap_atlasii_righttorso_mrm20_mh1": { "location": "righttorso", "prefab": "chrprfweap_atlasii_rt_lrm20_mh2" },
-      "chrPrfWeap_atlasii_righttorso_mrm20_mh2": { "location": "righttorso", "prefab": "chrprfweap_atlasii_rt_lrm20_mh2" },
-      "chrPrfWeap_atlasii_righttorso_mrm30_mh1": { "location": "righttorso", "prefab": "chrprfweap_atlasii_rt_lrm20_mh2" },
-      "chrPrfWeap_atlasii_righttorso_mrm30_mh2": { "location": "righttorso", "prefab": "chrprfweap_atlasii_rt_lrm20_mh2" },
-      "chrPrfWeap_atlasii_righttorso_mrm40_mh1": { "location": "righttorso", "prefab": "chrprfweap_atlasii_rt_lrm20_mh2" },
-      "chrPrfWeap_atlasii_righttorso_mrm40_mh2": { "location": "righttorso", "prefab": "chrprfweap_atlasii_rt_lrm20_mh2" },
-      "chrPrfWeap_atlasii_righttorso_srm12_mh1": { "location": "righttorso", "prefab": "chrprfweap_atlasii_rt_lrm20_mh2" },
-      "chrPrfWeap_atlasii_righttorso_srm12_mh2": { "location": "righttorso", "prefab": "chrprfweap_atlasii_rt_lrm20_mh2" },
-      "chrPrfWeap_atlasii_righttorso_thunderbolt_mh1": { "location": "righttorso", "prefab": "chrprfweap_atlasii_rt_lrm20_mh2" },
-      "chrPrfWeap_atlasii_righttorso_thunderbolt_mh2": { "location": "righttorso", "prefab": "chrprfweap_atlasii_rt_lrm20_mh2" },
-      "chrPrfWeap_atlasii_leftarm_ams_ah1": { "location": "leftarm", "prefab": "chrprfweap_atlasii_la_laser_eh1" },
-      "chrPrfWeap_atlasii_leftarm_lams_ah1": { "location": "leftarm", "prefab": "chrprfweap_atlasii_la_laser_eh1" },
-      "chrPrfWeap_atlasii_leftarm_laser_eh1": { "location": "leftarm", "prefab": "chrprfweap_atlasii_la_laser_eh1" },
-      "chrPrfWeap_atlasii_leftarm_laser_eh2": { "location": "leftarm", "prefab": "chrprfweap_atlasii_la_laser_eh2" },
-      "chrPrfWeap_atlasii_leftarm_ppc_eh1": { "location": "leftarm", "prefab": "chrprfweap_atlasii_la_ppc_eh1" },
-      "chrPrfWeap_atlasii_leftarm_ppc_eh2": { "location": "leftarm", "prefab": "chrprfweap_atlasii_la_ppc_eh2" },
-      "chrPrfWeap_atlasii_leftarm_erppc_eh1": { "location": "leftarm", "prefab": "chrprfweap_atlasii_la_ppc_eh1" },
-      "chrPrfWeap_atlasii_leftarm_erppc_eh2": { "location": "leftarm", "prefab": "chrprfweap_atlasii_la_ppc_eh2" },
-      "chrPrfWeap_atlasii_leftarm_hppc_eh1": { "location": "leftarm", "prefab": "chrprfweap_atlasii_la_ppc_eh1" },
-      "chrPrfWeap_atlasii_leftarm_hppc_eh2": { "location": "leftarm", "prefab": "chrprfweap_atlasii_la_ppc_eh2" },
-      "chrPrfWeap_atlasii_leftarm_lppc_eh1": { "location": "leftarm", "prefab": "chrprfweap_atlasii_la_ppc_eh1" },
-      "chrPrfWeap_atlasii_leftarm_lppc_eh2": { "location": "leftarm", "prefab": "chrprfweap_atlasii_la_ppc_eh2" },
-      "chrPrfWeap_atlasii_leftarm_snppc_eh1": { "location": "leftarm", "prefab": "chrprfweap_atlasii_la_ppc_eh1" },
-      "chrPrfWeap_atlasii_leftarm_snppc_eh2": { "location": "leftarm", "prefab": "chrprfweap_atlasii_la_ppc_eh2" },
-      "chrPrfWeap_atlasii_leftarm_plasma_eh1": { "location": "leftarm", "prefab": "chrprfweap_atlasii_la_laser_eh1" },
-      "chrPrfWeap_atlasii_leftarm_plasma_eh2": { "location": "leftarm", "prefab": "chrprfweap_atlasii_la_laser_eh2" },
-      "chrPrfWeap_atlasii_leftarm_flamer_eh1": { "location": "leftarm", "prefab": "chrprfweap_atlasii_la_laser_eh1" },
-      "chrPrfWeap_atlasii_leftarm_flamer_eh2": { "location": "leftarm", "prefab": "chrprfweap_atlasii_la_laser_eh2" },
-      "chrPrfWeap_atlasii_rightarm_ams_ah1": { "location": "rightarm", "prefab": "chrprfweap_atlasii_ra_ac10_bh1" },
-      "chrPrfWeap_atlasii_rightarm_lams_ah1": { "location": "rightarm", "prefab": "chrprfweap_atlasii_ra_ac10_bh1" },
-      "chrPrfWeap_atlasii_rightarm_ac10_bh1": { "location": "rightarm", "prefab": "chrprfweap_atlasii_ra_ac10_bh1" },
-      "chrPrfWeap_atlasii_rightarm_ac10_bh2": { "location": "rightarm", "prefab": "chrprfweap_atlasii_ra_ac10_bh1" },
-      "chrPrfWeap_atlasii_rightarm_ac20_bh1": { "location": "rightarm", "prefab": "chrprfweap_atlasii_ra_ac10_bh1" },
-      "chrPrfWeap_atlasii_rightarm_ac20_bh2": { "location": "rightarm", "prefab": "chrprfweap_atlasii_ra_ac10_bh1" },
-      "chrPrfWeap_atlasii_rightarm_gauss_bh1": { "location": "rightarm", "prefab": "chrprfweap_atlasii_ra_ac10_bh1" },
-      "chrPrfWeap_atlasii_rightarm_gauss_bh2": { "location": "rightarm", "prefab": "chrprfweap_atlasii_ra_ac10_bh1" },
-      "chrPrfWeap_atlasii_rightarm_hgauss_bh1": { "location": "rightarm", "prefab": "chrprfweap_atlasii_ra_ac10_bh1" },
-      "chrPrfWeap_atlasii_rightarm_hgauss_bh2": { "location": "rightarm", "prefab": "chrprfweap_atlasii_ra_ac10_bh1" },
-      "chrPrfWeap_atlasii_rightarm_lgauss_bh1": { "location": "rightarm", "prefab": "chrprfweap_atlasii_ra_ac10_bh1" },
-      "chrPrfWeap_atlasii_rightarm_lgauss_bh2": { "location": "rightarm", "prefab": "chrprfweap_atlasii_ra_ac10_bh1" },
-      "chrPrfWeap_atlasii_rightarm_lbx10_bh1": { "location": "rightarm", "prefab": "chrprfweap_atlasii_ra_ac10_bh1" },
-      "chrPrfWeap_atlasii_rightarm_lbx10_bh2": { "location": "rightarm", "prefab": "chrprfweap_atlasii_ra_ac10_bh1" },
-      "chrPrfWeap_atlasii_rightarm_lbx20_bh1": { "location": "rightarm", "prefab": "chrprfweap_atlasii_ra_ac10_bh1" },
-      "chrPrfWeap_atlasii_rightarm_lbx20_bh2": { "location": "rightarm", "prefab": "chrprfweap_atlasii_ra_ac10_bh1" },
-      "chrPrfWeap_atlasii_rightarm_rac5_bh1": { "location": "rightarm", "prefab": "chrprfweap_atlasii_ra_ac10_bh1" },
-      "chrPrfWeap_atlasii_rightarm_rac5_bh2": { "location": "rightarm", "prefab": "chrprfweap_atlasii_ra_ac10_bh1" },
-      "chrPrfWeap_atlasii_rightarm_uac10_bh1": { "location": "rightarm", "prefab": "chrprfweap_atlasii_ra_ac10_bh1" },
-      "chrPrfWeap_atlasii_rightarm_uac10_bh2": { "location": "rightarm", "prefab": "chrprfweap_atlasii_ra_ac10_bh1" },
-      "chrPrfWeap_atlasii_rightarm_uac20_bh1": { "location": "rightarm", "prefab": "chrprfweap_atlasii_ra_ac10_bh1" },
-      "chrPrfWeap_atlasii_rightarm_uac20_bh2": { "location": "rightarm", "prefab": "chrprfweap_atlasii_ra_ac10_bh1" },
-      "chrPrfWeap_atlasii_rightarm_ac2_bh1": { "location": "rightarm", "prefab": "chrprfweap_atlasii_ra_ac10_bh1" },
-      "chrPrfWeap_atlasii_rightarm_ac2_bh2": { "location": "rightarm", "prefab": "chrprfweap_atlasii_ra_ac10_bh1" },
-      "chrPrfWeap_atlasii_rightarm_ac5_bh1": { "location": "rightarm", "prefab": "chrprfweap_atlasii_ra_ac10_bh1" },
-      "chrPrfWeap_atlasii_rightarm_ac5_bh2": { "location": "rightarm", "prefab": "chrprfweap_atlasii_ra_ac10_bh1" },
-      "chrPrfWeap_atlasii_rightarm_hmg_bh1": { "location": "rightarm", "prefab": "chrprfweap_atlasii_ra_ac10_bh1" },
-      "chrPrfWeap_atlasii_rightarm_hmg_bh2": { "location": "rightarm", "prefab": "chrprfweap_atlasii_ra_ac10_bh1" },
-      "chrPrfWeap_atlasii_rightarm_lbx2_bh1": { "location": "rightarm", "prefab": "chrprfweap_atlasii_ra_ac10_bh1" },
-      "chrPrfWeap_atlasii_rightarm_lbx2_bh2": { "location": "rightarm", "prefab": "chrprfweap_atlasii_ra_ac10_bh1" },
-      "chrPrfWeap_atlasii_rightarm_lbx5_bh1": { "location": "rightarm", "prefab": "chrprfweap_atlasii_ra_ac10_bh1" },
-      "chrPrfWeap_atlasii_rightarm_lbx5_bh2": { "location": "rightarm", "prefab": "chrprfweap_atlasii_ra_ac10_bh1" },
-      "chrPrfWeap_atlasii_rightarm_lmg_bh1": { "location": "rightarm", "prefab": "chrprfweap_atlasii_ra_ac10_bh1" },
-      "chrPrfWeap_atlasii_rightarm_lmg_bh2": { "location": "rightarm", "prefab": "chrprfweap_atlasii_ra_ac10_bh1" },
-      "chrPrfWeap_atlasii_rightarm_mg_bh1": { "location": "rightarm", "prefab": "chrprfweap_atlasii_ra_ac10_bh1" },
-      "chrPrfWeap_atlasii_rightarm_mg_bh2": { "location": "rightarm", "prefab": "chrprfweap_atlasii_ra_ac10_bh1" },
-      "chrPrfWeap_atlasii_rightarm_rac2_bh1": { "location": "rightarm", "prefab": "chrprfweap_atlasii_ra_ac10_bh1" },
-      "chrPrfWeap_atlasii_rightarm_rac2_bh2": { "location": "rightarm", "prefab": "chrprfweap_atlasii_ra_ac10_bh1" },
-      "chrPrfWeap_atlasii_rightarm_uac2_bh1": { "location": "rightarm", "prefab": "chrprfweap_atlasii_ra_ac10_bh1" },
-      "chrPrfWeap_atlasii_rightarm_uac2_bh2": { "location": "rightarm", "prefab": "chrprfweap_atlasii_ra_ac10_bh1" },
-      "chrPrfWeap_atlasii_rightarm_uac5_bh1": { "location": "rightarm", "prefab": "chrprfweap_atlasii_ra_ac10_bh1" },
-      "chrPrfWeap_atlasii_rightarm_uac5_bh2": { "location": "rightarm", "prefab": "chrprfweap_atlasii_ra_ac10_bh1" }
-    }
-  },
   "HardpointData": [
     {
       "location": "lefttorso",
       "weapons": [
-        [],
+        [ "chrprfweap_atlasii_lefttorso_srm6_mh1" ],
         [ "chrprfweap_atlasii_lefttorso_laser_eh1" ],
         [ "chrprfweap_atlasii_lefttorso_laser_eh2" ]
       ],
@@ -175,7 +14,8 @@
     {
       "location": "righttorso",
       "weapons": [
-        []
+        [ "chrprfweap_atlasii_righttorso_lrm20_mh2" ],
+        [ "chrprfweap_atlasii_righttorso_lrm20_mh2" ]
       ],
       "blanks": [],
       "mountingPoints": []
@@ -183,7 +23,7 @@
     {
       "location": "centertorso",
       "weapons": [
-        []
+        [ "chrprfweap_atlasii_lefttorso_laser_eh1", "chrprfweap_atlasii_lefttorso_ppc_eh1" ]
       ],
       "blanks": [],
       "mountingPoints": []
@@ -191,7 +31,8 @@
     {
       "location": "leftarm",
       "weapons": [
-        []
+        [ "chrprfweap_atlasii_leftarm_laser_eh1", "chrprfweap_atlasii_leftarm_ppc_eh1" ],
+        [ "chrprfweap_atlasii_leftarm_laser_eh2", "chrprfweap_atlasii_leftarm_ppc_eh2" ]
       ],
       "blanks": [],
       "mountingPoints": []
@@ -199,7 +40,8 @@
     {
       "location": "rightarm",
       "weapons": [
-        []
+        [ "chrprfweap_atlasii_rightarm_ac10_bh1" ],
+        [ "chrprfweap_atlasii_rightarm_ac10_bh1" ]
       ],
       "blanks": [],
       "mountingPoints": []
